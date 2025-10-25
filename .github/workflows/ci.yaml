@@ -85,5 +85,5 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add helm/go-web-app-chart/values.yaml
-        git commit -m "chore: update tag in Helm chart"
+        git commit -m "chore: Updated tag in Helm chart"
         git push
