@@ -1,4 +1,4 @@
-# Go Web Application – End-to-End CI/CD on Kubernetes with Helm, ArgoCD & GitHub Actions
+# Go Web Application – End-to-End CI/CD on Kubernetes (GKE) with Helm, ArgoCD & GitHub Actions
 
 This project demonstrates a **Complete DevOps CI/CD pipeline** for deploying a simple **Go web application** (serving static HTML files) on a **GKE Kubernetes cluster** using modern tools like **Docker, Helm, GitHub Actions, and ArgoCD**.
 
