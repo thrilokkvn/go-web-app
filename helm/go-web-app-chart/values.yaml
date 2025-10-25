@@ -8,7 +8,7 @@ image:
   repository: thrilokkd/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "18803737625"
+  tag: "18803974469"
 
 ingress:
   enabled: false
