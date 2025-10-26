@@ -14,6 +14,10 @@ This is a simple website written in Golang. It uses the `net/http` package to se
 - **ArgoCD**: Continuous Deployment (GitOps)
 - **Google Cloud Platform (GCP)**: Cloud provider hosting the cluster
 
+## Workflow Overview
+
+![Website](static/images/project-workflow.png)
+
 ## Project Flow
 
 ### 1. Local Setup and Running the server
